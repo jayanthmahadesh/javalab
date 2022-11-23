@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Register Form</title>
+</head>
+<body>
+FORM ACTION="Register" METHOD="get">
+<lable>User Name:</lable><br>
+sinput type="text" name="U_name"><br></input>
+<lable>Password:</lable><br>
+sinput type="password" name="pass"><br></input>
+<lable>Re-Password:</lable><br>
+input type="password" name="re_pass"><br></input>
+<br>
+input type="submit" value="Submit" />
+FORM>
+</body>
+</html>
